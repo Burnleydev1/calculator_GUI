@@ -1,3 +1,4 @@
+#start program
 
 from tkinter import *
 
